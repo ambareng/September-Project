@@ -2,7 +2,7 @@
 
 An incomplete project of mine. It was initially meant to be a 3D First-Person Perspective RPG however due to the ambitious scope and lack of time to work on it, it was abandoned. I might come back to it when I have the time.
 
-![Game Pic 01](/Images/game_pic_01.png)
+![Game Pic 01](Images/game_pic_01.png)
 
 As of the moment, it has a dialog system, a simple choice system (wherein you can choose to say yes or no or to accept or reject something), and two relatively simple quests.
 
